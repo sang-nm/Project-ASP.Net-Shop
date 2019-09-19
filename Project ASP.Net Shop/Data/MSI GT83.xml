@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Laptop>
+  <Specifications>
+    <Processor> Intel(R) core i7-7820HK (2.9GHz upto 3.9GHz, 8 Thread, 8M cache)</Processor>
+    <Memory>32GB DDR4-2400, 4 Slots, Max 64GB</Memory>
+    <VideoCard>GeForce® GTX 1080 with 8GB GDDR5X SLI + Intel HD 630</VideoCard>
+    <Display>18.4" FHD,Anti-Glare(1920*1080)IPS-Level</Display>
+    <HardDrive>Super Raid 4-512GB SSD(NVMe M.2 SSDby PCIe Gen3x4) +1TB(SATA)</HardDrive>
+    <Battery>8-Cell , 75 Whr</Battery>
+  </Specifications>
+</Laptop>

@@ -1,0 +1,95 @@
+﻿
+@model Project_ASP.Net_Shop.Models.ViewModelMainSite
+
+@{
+    PageData["Title"] = "GrandChildsite";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    <style scoped>
+        .parallax {
+            background-image: url("/Images/2.jpg");
+            min-height: 400px;
+        }
+    </style>
+}
+
+<!--Product Banner-->
+<div class="parallax">
+    <div class="caption">
+        <span class="border">GrandChildname</span>
+    </div>
+</div>
+
+<!--Product image-->
+<div class="container text-center">
+    <div class="row">
+        <div class="col-md-5">
+            <div class="thumbnail">
+                <img src="111.jpg" alt="thumbnailtest" style="width:100%; height:auto">
+            </div>
+        </div>
+        <div class="col-md-7">
+            <h1>Product Name</h1>
+            <p>Description</p>
+            <strong>$Price</strong>
+            <div class="color-quality" style="margin-top: 20px;">
+                <ul style="padding-left: 10px">
+                    <li>
+                        <a href="#">
+                            <span></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="blue">
+                            <span></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="black">
+                            <span></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="gray">
+                            <span></span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="bg-1">
+    <div class="container text-center">
+        <h3>Product's Information</h3>
+        <div class="panel panel-default">
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <tbody style="text-align: left">
+                            @foreach (var item in Model.KaM.ListXML)
+                            {
+                                <tr>
+                                    <td width="10%">o</td>
+                                    <td width="90%">@item</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <!-- /.table-responsive -->
+            </div>
+            <!-- /.panel-body -->
+        </div>
+    </div>
+</div>
+<!--Product Banner-->
+<div class="parallax">
+    <div class="caption">
+        <span class="border">GrandChildname</span>
+    </div>
+</div>

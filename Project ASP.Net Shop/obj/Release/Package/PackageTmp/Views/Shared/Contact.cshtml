@@ -1,0 +1,29 @@
+﻿@model Project_ASP.Net_Shop.Models.ViewModelMainSite
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="row">
+        <div class="col-sm-6 form-group">
+            @Html.EditorFor(model => model.Cont.Name, new { htmlAttributes = new { @class = "form-control", id = "name", name = "name", placeholder = "Name" } })
+            @Html.ValidationMessageFor(model => model.Cont.Name, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="col-sm-6 form-group">
+            @Html.EditorFor(model => model.Cont.Email, new { htmlAttributes = new { @class = "form-control", id = "email", name = "email", placeholder = "Email" } })
+            @Html.ValidationMessageFor(model => model.Cont.Email, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.TextAreaFor(model => model.Cont.Comment, new { @class = "form-control", @rows = "5", id = "comment", name = "comment", placeholder = "Comment" })
+        @Html.ValidationMessageFor(model => model.Cont.Comment, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="row">
+        <div class="col-md-12 form-group">
+            <input type="submit" value="Send" class="btn pull-right" />
+        </div>
+    </div>
+}

@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@PageData["Title"] - Admin</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Project ASP.Net MVC 5">
+    <meta name="author" content="Felis Silvestris">
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+
+<body id="myPage">
+    <!--Navigation bar section-->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid" style="padding-left:47%">
+            <div class="navbar-header">
+                @Html.ActionLink("Felis", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        @RenderBody()
+    </div>
+    <hr style="margin: 0px">
+
+    <!-- Footer -->
+    <footer class="text-center">
+        <a class="up-arrow" href="#myPage" data-toggle="tooltip" title="TO TOP">
+            <span class="glyphicon glyphicon-chevron-up"></span>
+        </a><br><br>
+        <strong style="letter-spacing: 5px">Copy By <a href="https://www.facebook.com/nguyenminhsang.195692" data-toggle="tooltip" title="Visit me" style="text-decoration: underline">nguyenminhsang</a></strong>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+
+</html>

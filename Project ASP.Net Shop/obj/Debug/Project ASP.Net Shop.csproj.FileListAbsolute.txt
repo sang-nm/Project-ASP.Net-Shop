@@ -1,0 +1,221 @@
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\ApplicationInsights.config
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\csc.exe
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\csc.exe.config
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\csc.rsp
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\csi.exe
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\csi.rsp
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\System.AppContext.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\vbc.exe
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\vbc.exe.config
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\vbc.rsp
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Project ASP.Net Shop.dll.config
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Project ASP.Net Shop.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Project ASP.Net Shop.pdb
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Antlr3.Runtime.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\EntityFramework.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.Web.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Newtonsoft.Json.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Helpers.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Mvc.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Optimization.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Razor.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.WebPages.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\WebGrease.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\EntityFramework.xml
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Helpers.xml
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Mvc.xml
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Optimization.xml
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Razor.xml
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.WebPages.xml
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Antlr3.Runtime.pdb
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Newtonsoft.Json.xml
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.ApplicationInsights.xml
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.Web.xml
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\obj\Debug\Project_ASP.Net_Shop.Migrations.Initial.resources
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\obj\Debug\Project_ASP.Net_Shop.Migrations.contact.resources
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\obj\Debug\Project ASP.Net Shop.csproj.GenerateResource.Cache
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\obj\Debug\Project ASP.Net Shop.dll
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\obj\Debug\Project ASP.Net Shop.pdb
+C:\Users\YooSangGem\Desktop\Project ASP.Net Shop\Project ASP.Net Shop\obj\Debug\Project ASP.Net Shop.csprojResolveAssemblyReference.cache
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\ApplicationInsights.config
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\csc.exe
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\csc.exe.config
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\csc.rsp
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\csi.exe
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\csi.rsp
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\System.AppContext.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\vbc.exe
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\vbc.exe.config
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\vbc.rsp
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Project ASP.Net Shop.dll.config
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Project ASP.Net Shop.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Project ASP.Net Shop.pdb
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Antlr3.Runtime.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\EntityFramework.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.Web.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Newtonsoft.Json.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Helpers.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Mvc.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Optimization.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Razor.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.WebPages.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\WebGrease.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\EntityFramework.xml
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Helpers.xml
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Mvc.xml
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Optimization.xml
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Razor.xml
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.WebPages.xml
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Antlr3.Runtime.pdb
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Newtonsoft.Json.xml
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.Web.xml
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\obj\Debug\Project ASP.Net Shop.csproj.CoreCompileInputs.cache
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\obj\Debug\Project ASP.Net Shop.dll
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\obj\Debug\Project ASP.Net Shop.pdb
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\obj\Debug\Project_ASP.Net_Shop.Migrations.init.resources
+C:\Users\Felis\Downloads\Project ASP.Net Shop\Project ASP.Net Shop\obj\Debug\Project ASP.Net Shop.csproj.GenerateResource.Cache
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\ApplicationInsights.config
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\csc.exe
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\csc.exe.config
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\csc.rsp
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\csi.exe
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\csi.rsp
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\System.AppContext.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\vbc.exe
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\vbc.exe.config
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\vbc.rsp
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Project ASP.Net Shop.dll.config
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Project ASP.Net Shop.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Project ASP.Net Shop.pdb
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Antlr3.Runtime.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\EntityFramework.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.Web.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Newtonsoft.Json.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Helpers.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Mvc.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Optimization.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Razor.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.WebPages.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\WebGrease.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\EntityFramework.xml
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Helpers.xml
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Mvc.xml
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Optimization.xml
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.Razor.xml
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.WebPages.xml
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Antlr3.Runtime.pdb
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Newtonsoft.Json.xml
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\bin\Microsoft.AI.Web.xml
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\obj\Debug\Project ASP.Net Shop.csprojResolveAssemblyReference.cache
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\obj\Debug\Project_ASP.Net_Shop.Migrations.init.resources
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\obj\Debug\Project ASP.Net Shop.csproj.GenerateResource.Cache
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\obj\Debug\Project ASP.Net Shop.csproj.CoreCompileInputs.cache
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\obj\Debug\Project ASP.Net Shop.dll
+C:\Users\Felis\Documents\My Projects\Project ASP.Net Shop\Project ASP.Net Shop\obj\Debug\Project ASP.Net Shop.pdb

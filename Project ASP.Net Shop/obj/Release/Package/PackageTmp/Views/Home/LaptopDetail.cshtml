@@ -1,0 +1,114 @@
+﻿@model Project_ASP.Net_Shop.Models.ViewModelMainSite
+
+@{
+    ViewBag.Title = "GrandChildsite";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    <style scoped>
+        .parallax {
+            background-image: url("/Images/2.jpg");
+            min-height: 400px;
+        }
+    </style>
+}
+
+<!--Product Banner-->
+<div class="parallax">
+    <div class="caption">
+        <span class="border">GrandChildname</span>
+    </div>
+</div>
+
+<!--Product image-->
+<div class="container text-center">
+    <div class="row">
+        <div class="col-md-5">
+            <div class="thumbnail">
+                <img src="111.jpg" alt="thumbnailtest" style="width:100%; height:auto">
+            </div>
+        </div>
+        <div class="col-md-7">
+            <h1>Product Name</h1>
+            <p>Description</p>
+            <strong>$Price</strong>
+            <div class="color-quality" style="margin-top: 20px;">
+                <ul style="padding-left: 10px">
+                    <li>
+                        <a href="#">
+                            <span></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="blue">
+                            <span></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="black">
+                            <span></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="gray">
+                            <span></span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="bg-1">
+    <div class="container text-center">
+        <h3>Product's Information</h3>
+        <div class="panel panel-default">
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <tbody>
+                            @foreach (var item in Model.Laptop)
+                            {
+                                <tr>
+                                    <td width="30%">Processor</td>
+                                    <td width="70%">@item.Processor</td>
+                                </tr>
+                                <tr>
+                                    <td width="30%">Memory</td>
+                                    <td width="70%">@item.Memory</td>
+                                </tr>
+                                <tr>
+                                    <td width="30%">Video Card</td>
+                                    <td width="70%">@item.VideoCard</td>
+                                </tr>
+                                <tr>
+                                    <td width="30%">Display</td>
+                                    <td width="70%">@item.Display</td>
+                                </tr>
+                                <tr>
+                                    <td width="30%">Hard Drive</td>
+                                    <td width="70%">@item.HardDrive</td>
+                                </tr>
+                                <tr>
+                                    <td width="30%">Battery</td>
+                                    <td width="70%">@item.Battery</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <!-- /.table-responsive -->
+            </div>
+            <!-- /.panel-body -->
+        </div>
+    </div>
+</div>
+<!--Product Banner-->
+<div class="parallax">
+    <div class="caption">
+        <span class="border">GrandChildname</span>
+    </div>
+</div>

@@ -1,0 +1,128 @@
+﻿@model Project_ASP.Net_Shop.Models.ViewModelMainSite
+
+@{
+    PageData["Title"] = "Childsite";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container-fluid text-center" style="background-color: #bdbdbd">
+    <div class="jumbotron" style="border-radius: 5px">
+        <h1>@ViewBag.pProd @ViewBag.pChild</h1>
+    </div>
+</div>
+
+<div id="category" class="container text-center">
+    <h3>Category</h3>
+    @if (Model.Prod != null)
+    {
+        int i = 0;
+        foreach (var item in Model.Prod)
+        {
+
+            if (i != 0 && i % 3 == 0)
+            {
+                @:</div>
+            }
+            if (i % 3 == 0)
+            {
+                @:<div class="row">
+            }
+            <div class="col-sm-4" style="border-bottom:1px solid #fff">
+                <p class="text-center"><strong>@item.ProductName</strong></p><br>
+                <a href="#@item.ID" data-toggle="collapse">
+                    <img src="@Url.Content(@item.ProductThumbnail)" class="img-responsive person" alt="Random Name" width="255" height="255">
+                </a>
+                <div id="@item.ID" class="collapse">
+                    <p>Producer: @item.Producer</p>
+                    <p>Price: @item.Price</p>
+                    <p>Description: @item.Description</p>
+                    <button class="btn" data-toggle="modal" data-target="#myModal">Buy</button>
+                    @Html.ActionLink("View", "LaptopDetail", "Home", new { paramSpec = @item.Specifications }, new { @class = "btn" })
+                </div>
+            </div>
+            i++;
+        }
+        @:</div>
+    }
+</div>
+<!-- Container (Top View Section) -->
+<div class="bg-1">
+    <div id="topview" class="container text-center">
+        <h3>Top View</h3>
+        <div class="row">
+            <div class="col-sm-4">
+                <p class="text-center"><strong>Name</strong></p><br>
+                <a href="#demo" data-toggle="collapse">
+                    <img src="~/Images/Dell/laptop-xps-15-pdp-polaris-01-row.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
+                </a>
+                <div id="demo" class="collapse">
+                    <p>Guitarist and Lead Vocalist</p>
+                    <p>Loves long walks on the beach</p>
+                    <p>Member since 1988</p>
+                    <button class="btn" data-toggle="modal" data-target="#myModal">Buy</button>
+                    <button class="btn" data-toggle="modal" data-target="#myModal">View</button>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <p class="text-center"><strong>Name</strong></p><br>
+                <a href="#demo2" data-toggle="collapse">
+                    <img src="bandmember.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
+                </a>
+                <div id="demo2" class="collapse">
+                    <p>Drummer</p>
+                    <p>Loves drummin'</p>
+                    <p>Member since 1988</p>
+                    <button class="btn" data-toggle="modal" data-target="#myModal">Buy</button>
+                    <button class="btn" data-toggle="modal" data-target="#myModal">View</button>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <p class="text-center"><strong>Name</strong></p><br>
+                <a href="#demo3" data-toggle="collapse">
+                    <img src="bandmember.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
+                </a>
+                <div id="demo3" class="collapse">
+                    <p>Bass player</p>
+                    <p>Loves math</p>
+                    <p>Member since 2005</p>
+                    <button class="btn" data-toggle="modal" data-target="#myModal">Buy</button>
+                    <button class="btn" data-toggle="modal" data-target="#myModal">View</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">×</button>
+                <h4><span class="glyphicon glyphicon-lock"></span> Buy</h4>
+            </div>
+            <div class="modal-body">
+                <form role="form">
+                    <div class="form-group">
+                        <label for="psw"><span class="glyphicon glyphicon-shopping-cart"></span> Tickets, $23 per person</label>
+                        <input type="number" class="form-control" id="psw" placeholder="How many?">
+                    </div>
+                    <div class="form-group">
+                        <label for="usrname"><span class="glyphicon glyphicon-user"></span> Send To</label>
+                        <input type="text" class="form-control" id="usrname" placeholder="Enter email">
+                    </div>
+                    <button type="submit" class="btn btn-block">
+                        Pay
+                        <span class="glyphicon glyphicon-ok"></span>
+                    </button>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+                    <span class="glyphicon glyphicon-remove">Cancel</span>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>

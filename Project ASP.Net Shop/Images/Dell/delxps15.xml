@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Laptop>
+  <Specifications>
+    <Processor>7th Generation Intel® Core™ i7-7700HQ Quad Core Processor (6M cache, up to 3.8 GHz)</Processor>
+    <Memory>16GB DDR4 2400MHz; up to 32GB (additional memory sold separately)</Memory>
+    <VideoCard>NVIDIA® GeForce® GTX 1050 with 4GB GDDR5</VideoCard>
+    <Display>15.6" 4K Ultra HD (3840x2160) InfinityEdge touch display</Display>
+    <HardDrive>500GB HDD + 32GB Flash or 1TB HDD + 32GB Flash with Intel® Smart Response Technology</HardDrive>
+    <Battery>56Whr or 97Whr Battery (built-in)</Battery>
+  </Specifications>
+</Laptop>

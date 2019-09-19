@@ -1,0 +1,143 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@PageData["Title"] - Felis</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Project ASP.Net MVC 5">
+    <meta name="author" content="Felis Silvestris">
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+
+<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50">
+    <!--Navigation bar section-->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Felis", "Mainsite", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                    <li class="dropdown">
+                        @Html.ActionLink("Laptop", "Childsite", "Home", new { paramChildName = "Laptop", paramProducer = "" }, new { @class = "dropdown-toggle" })
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("HP", "Childsite", "Home", new { paramChildName = "Laptop", paramProducer = "HP" }, null)</li>
+                            <li>@Html.ActionLink("Dell", "Childsite", "Home", new { paramChildName = "Laptop", paramProducer = "Dell" }, null)</li>
+                            <li>@Html.ActionLink("MSI", "Childsite", "Home", new { paramChildName = "Laptop", paramProducer = "MSI" }, null)</li>
+                            <li class="divider"></li>
+                            <li>@Html.ActionLink("Apple", "Childsite", "Home", new { paramChildName = "Laptop", paramProducer = "Apple" }, null)</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        @Html.ActionLink("Keyboard", "Childsite", "Home", new { paramChildName = "Keyboard", paramProducer = "" }, new { @class = "dropdown-toggle" })
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Corsair", "Childsite", "Home", new { paramChildName = "Keyboard", paramProducer = "Corsair" }, null)</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        @Html.ActionLink("Mouse", "Childsite", "Home", new { paramChildName = "Mouse", paramProducer = "" }, new { @class = "dropdown-toggle" })
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Razor", "Childsite", "Home", new { paramChildName = "Mouse", paramProducer = "Razer" }, null)</li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    @*<li>
+                        @using (Html.BeginForm("Mainsite","Home", FormMethod.Get ,new { @Style = "position: relative" }))
+                        {
+                            <div class="input-group">
+                                @Html.TextBox("SearchString", null, new { @class = "form-control", @placeholder = "Search for...", @style = "width: 20%" })
+                                <span class="input-group-btn">
+                                    <input type="submit" value="Search" class="btn btn-primary"/>
+                                </span>
+                            </div>
+                        }
+                    </li>*@
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#about">About</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    @RenderBody()
+
+    <!-- Container (Contact Section) -->
+    <div id="contact" class="container">
+        <h3 class="text-center">Contact</h3>
+        <p class="text-center"><em>We love our money!</em></p>
+
+        <div class="row">
+            <div class="col-md-4">
+                <p>Feedback?</p>
+                <p><span class="glyphicon glyphicon-map-marker"></span>Viet Nam</p>
+                <p><span class="glyphicon glyphicon-phone"></span>Phone: +99 999 999 999</p>
+                <p><span class="glyphicon glyphicon-envelope"></span>Email: felissilvestris@live.com</p>
+            </div>
+            <div class="col-md-8">
+                @RenderPage("~/Views/Shared/Contact.cshtml")
+            </div>
+        </div>
+    </div>
+    <div id="about" class="bg-1">
+        <div class="container">
+            <h3 class="text-center">About</h3>
+            <ul class="nav nav-tabs nav-justified">
+                <li class="active"><a data-toggle="tab" href="#website">Website</a></li>
+                <li><a data-toggle="tab" href="#author">Author</a></li>
+                <li><a data-toggle="tab" href="#source">Source</a></li>
+            </ul>
+
+            <div class="tab-content">
+                <div id="website" class="tab-pane fade in active">
+                    <h2>In a later memoir, Newton wrote:</h2>
+                    <p>
+                        I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the
+                        sea-shore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary,
+                        whilst the great ocean of truth lay all undiscovered before me.
+                    </p>
+                </div>
+                <div id="author" class="tab-pane fade">
+                    <h2>In a later memoir, Felis Silvestris wrote:</h2>
+                    <p>Have pussy dad you believe, lie, func mom you</p>
+                </div>
+                <div id="source" class="tab-pane fade">
+                    <h2>Copyright - Copyleft</h2>
+                    <dl class="dl-horizontal">
+                        <dt>W3schools</dt>
+                        <dd>Band bootstrap template</dd>
+                        <dd>Online store bootstrap template</dd>
+                        <dt>Bootstrap</dt>
+                        <dd>Carousel template</dd>
+                        <dd>nav-justified template</dd>
+                        <dd>Login template</dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @RenderSection("GoogleMap", required: false)
+
+    <hr style="margin: 0px">
+
+    <!-- Footer -->
+    <footer class="text-center">
+        <a class="up-arrow" href="#myPage" data-toggle="tooltip" title="TO TOP">
+            <span class="glyphicon glyphicon-chevron-up"></span>
+        </a><br><br>
+        <strong style="letter-spacing: 5px">Copy By <a href="https://www.facebook.com/nguyenminhsang.92195619" data-toggle="tooltip" title="Visit me" style="text-decoration: underline">nguyenminhsang</a></strong>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+
+</html>

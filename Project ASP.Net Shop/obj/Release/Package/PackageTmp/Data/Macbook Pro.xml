@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Laptop>
+  <Specifications>
+    <Processor>2.6GHz quad-core Intel Core i7, Turbo Boost up to 3.5GHz, with 6MB shared L3 cache</Processor>
+    <Memory>16GB of 2133MHz LPDDR3 onboard memory</Memory>
+    <VideoCard>Radeon Pro 460 with 4GB of GDDR5 memory and automatic graphics switching</VideoCard>
+    <Display>15.4-inch (diagonal) LED-backlit display with IPS technology; </Display>
+    <HardDrive>2TB PCIe-based onboard SSD</HardDrive>
+    <Battery>Built-in 76.0-watt-hour lithium-polymer battery</Battery>
+  </Specifications>
+</Laptop>

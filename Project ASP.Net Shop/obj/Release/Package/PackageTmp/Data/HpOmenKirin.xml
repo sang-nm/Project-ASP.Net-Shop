@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Laptop>
+  <Specifications>
+    <Processor>6th generation Intel® Core™ i7-6700HQ(2.6GHz,turbo up to 3.5GHz, 6MB L3 Cache)</Processor>
+    <Memory>16GB DDR4-2133 SDRAM (2 DIMM)</Memory>
+    <VideoCard>NVIDIA N16E-GR (GeForce GTX 965M) with up to 4096MB of dedicated video memory</VideoCard>
+    <Display>17.3" UHD WLED AntiGlare (3840x2160) UWVA</Display>
+    <HardDrive>1TB (7200RPM) hard drive</HardDrive>
+    <Battery>12 cells</Battery>
+  </Specifications>
+</Laptop>
